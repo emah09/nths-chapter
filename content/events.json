@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Fall pathway open house",
+    "date": "2026-11-12",
+    "time": "18:00",
+    "location": "CTE Wing",
+    "description": "Members hosted tours of the engineering, health sciences, and digital media classrooms."
+  },
+  {
+    "title": "Winter donation drive",
+    "date": "2026-12-10",
+    "time": "15:45",
+    "location": "Main Lobby",
+    "description": "Help collect and sort winter clothing for the community resource center."
+  },
+  {
+    "title": "CTE student showcase",
+    "date": "2027-01-21",
+    "time": "18:00",
+    "location": "School Commons",
+    "description": "See student projects and meet the teams behind them. Families are welcome."
+  },
+  {
+    "title": "Career pathways panel",
+    "date": "2027-02-11",
+    "time": "16:00",
+    "location": "Media Center",
+    "description": "Local professionals share how their technical education shaped their careers."
+  }
+]

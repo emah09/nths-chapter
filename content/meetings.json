@@ -1,0 +1,30 @@
+[
+  {
+    "title": "November chapter meeting",
+    "date": "2026-11-03",
+    "time": "15:30",
+    "location": "Room 204",
+    "agenda": ["Review fall service hours", "Choose a December project"]
+  },
+  {
+    "title": "December chapter meeting",
+    "date": "2026-12-01",
+    "time": "15:30",
+    "location": "Room 204",
+    "agenda": ["Plan the CTE showcase", "Assign donation drive shifts", "Review service hour deadlines"]
+  },
+  {
+    "title": "January chapter meeting",
+    "date": "2027-01-05",
+    "time": "15:30",
+    "location": "Room 204",
+    "agenda": ["Welcome new members", "Set spring project priorities"]
+  },
+  {
+    "title": "February chapter meeting",
+    "date": "2027-02-02",
+    "time": "15:30",
+    "location": "Room 204",
+    "agenda": ["Review showcase feedback", "Plan spring outreach"]
+  }
+]
